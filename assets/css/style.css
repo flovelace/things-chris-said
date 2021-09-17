@@ -1,0 +1,32 @@
+.h1 {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 50px;
+}
+
+#button-container {
+    padding-top: 20px;
+}
+
+#card-container {
+    padding: 20px;
+}
+
+.hide {
+    display: none;
+}
+
+.btn {
+    margin: 15px;
+}
+
+.card {
+    margin: 15px;
+}
+
+.footer {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 20px;
+}
+
+
+
